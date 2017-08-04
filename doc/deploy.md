@@ -70,7 +70,7 @@ Please checkout how to install Python 3.4 [here](how-to.md#download-compile-and-
     ```
     $> ../virtualenv/bin/pip install -r requirements.txt
     $> ../virtualenv/bin/python3 manage.py bower install
-    $> ../virtualenv/bin/python3 manage.py migrate --noinput
+    $> ../virtualenv/bin/python3 manage.py migrate
     ```
 
 5. Create super user.
